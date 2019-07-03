@@ -1,0 +1,82 @@
+﻿@model db.ViewModels.PirkimuAtaskaitaViewModel
+
+@{
+    ViewBag.Title = "Pirkimu atskaita";
+}
+
+    <h2>Pirkimu ataskaita</h2>
+<p><b>Parengta:</b> @DateTime.Now</p>
+
+@using (Html.BeginForm())
+{
+    <div class="form-group">
+        <label>Pirkimai nuo: </label>
+        @*<input class="form-inline date-picker" type="datetime" name="nuo" value="@Model.nuo" />*@
+        @Html.EditorFor(model => model.nuo, new { @class = "date-picker" })
+        <label>Pirkimai iki: </label>
+        @*<input class="form-inline date-picker" type="datetime" name="iki" value="@Model.iki" />*@
+        @Html.EditorFor(model => model.iki, new { @class = "date-picker" })
+        <input class="btn btn-default" type="submit" value="Atrinkti">
+    </div>
+}
+
+<table class="table table-striped">
+    <tr style="background-color:lightblue">
+        <th>
+            @Html.DisplayNameFor(model => model.sutartys[0].id)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.sutartys[0].sutartiesData)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.sutartys[0].SutartiesNumeris)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.sutartys[0].kaina)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.sutartys[0].pardavejas)
+        </th>
+    </tr>
+
+    @if (Model.sutartys.Count == 0)
+    {
+        <tr>
+            <td colspan="5" align="center"><b style="color:red;">Nurodytame laikotarpyje nebuvo užsakytų paslaugų</b></td>
+        </tr>
+    }
+
+    @for (int i = 0; i < Model.sutartys.Count; i++)
+    {
+        <tr>
+            <td>@Model.sutartys[i].id</td>
+            <td>@Model.sutartys[i].sutartiesData</td>
+            <td>@Model.sutartys[i].SutartiesNumeris</td>
+            <td>@Model.sutartys[i].kaina</td>
+            <td>@Model.sutartys[i].pardavejas</td>
+        </tr>
+    }
+
+    <tr style="background-color: lightblue">
+        <td height="10px;" colspan="5" align="center"><b>Ataskaita</b></td>
+    </tr>
+
+    <tr>
+        <td colspan="1"></td>
+        <td>
+            @Html.DisplayNameFor(modelItem => Model.visoSumaSutartciu)
+        </td>
+
+        <td>
+            @Html.DisplayFor(modelItem => Model.visoSumaSutartciu)
+        </td>
+        <td>
+            @Html.DisplayNameFor(modelItem => Model.sutarciusk)
+        </td>
+
+        <td>
+            @Html.DisplayFor(modelItem => Model.sutarciusk)
+        </td>
+
+    </tr>
+</table>

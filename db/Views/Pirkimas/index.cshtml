@@ -1,0 +1,72 @@
+﻿@model  IEnumerable<db.ViewModels.PirkimoViewModel>
+
+@{
+    ViewBag.Title = "Pirkimai";
+}
+
+    <h2>Pirkimai</h2>
+
+<p>
+    @Html.ActionLink("Naujas Pirkimas", "Create", "Pirkimas", new { @class="btn btn-success"})
+</p>
+<table class="table table-striped datatable">
+    <thead>
+        <tr style="background-color: lightyellow">
+            <th>
+                @Html.DisplayNameFor(model => model.PirkimoData)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.SutartiesNumeris)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.SaskaitosNumeris)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.PapildomosPaslaugos)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.PapildomuPaslauguKaina)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.televizorius)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.id_Pirkimo_sutartis)
+            </th>
+            <th style="width: 18%"></th>
+        </tr>
+        </thead>
+    <tbody>
+
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.PirkimoData)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.SutartiesNumeris)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.SaskaitosNumeris)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.PapildomosPaslaugos)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.PapildomuPaslauguKaina)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.televizorius)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.id_Pirkimo_sutartis)
+            </td>
+            <td>
+                @Html.ActionLink("Redaguoti", "Edit", new { id = item.id_Pirkimo_sutartis }, new { @class = "btn btn-primary action" })
+                @Html.ActionLink("Šalinti", "Delete", new { id = item.id_Pirkimo_sutartis }, new { @class = "btn btn-danger action" })
+            </td>
+        </tr>
+}
+        </tbody>
+
+</table>

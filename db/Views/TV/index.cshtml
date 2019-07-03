@@ -1,0 +1,66 @@
+﻿@model  IEnumerable<db.ViewModels.TVViewModel>
+
+@{
+    ViewBag.Title = "Televizoriai";
+}
+
+    <h2>Televizoriai</h2>
+
+<p>
+    @Html.ActionLink("Naujas Televizorius", "Create", "TV", new { @class="btn btn-success"})
+</p>
+<table class="table table-striped datatable">
+    <thead>
+        <tr style="background-color: lightyellow">
+            <th>
+                @Html.DisplayNameFor(model => model.SerN)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.ekranoDaznis)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.rezoliucija)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.imtuvas)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Modelis)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.id_Televizorius)
+            </th>
+            <th style="width: 18%"></th>
+        </tr>
+        </thead>
+    <tbody>
+
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.SerN)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.ekranoDaznis)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.rezoliucija)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.imtuvas)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Modelis)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.id_Televizorius)
+            </td>
+            <td>
+                @Html.ActionLink("Redaguoti", "Edit", new { id = item.id_Televizorius }, new { @class = "btn btn-primary action" })
+                @Html.ActionLink("Šalinti", "Delete", new { id = item.id_Televizorius }, new { @class = "btn btn-danger action" })
+            </td>
+        </tr>
+}
+        </tbody>
+
+</table>

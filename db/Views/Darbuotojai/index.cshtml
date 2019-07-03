@@ -1,0 +1,55 @@
+﻿@model IEnumerable<db.ViewModels.PardavejasViewModel>
+
+@{
+    ViewBag.Title = "Darbuotojai";
+}
+
+<h2>Darbuotojai</h2>
+
+<p>
+    @Html.ActionLink("Naujas darbuotojas", "Create", "Darbuotojas", new { @class = "btn btn-success" })
+</p>
+<table class="table table-striped datatable">
+    <thead>
+        <tr style="background-color: lightblue">
+            <th>
+                @Html.DisplayNameFor(model => model.tabelioNumeris)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.darboSutartiesNr)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.vardas)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.pavarde)
+            </th>
+            <th style="width: 18%"></th>
+        </tr>
+    </thead>
+    <tbody>
+
+        @foreach (var item in Model)
+        {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.tabelioNumeris)
+            </td>
+            <td>
+                @Html.DisplayNameFor(model => model.darboSutartiesNr)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.vardas)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.pavarde)
+            </td>
+            <td>
+                @Html.ActionLink("Redaguoti", "Edit", new { id = item.tabelioNumeris }, new { @class = "btn btn-primary action" })
+                @Html.ActionLink("Šalinti", "Delete", new { id = item.tabelioNumeris }, new { @class = "btn btn-danger action" })
+            </td>
+        </tr>
+        }
+    </tbody>
+
+</table>

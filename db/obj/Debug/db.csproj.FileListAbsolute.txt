@@ -1,0 +1,162 @@
+C:\Users\Lukas\Desktop\db\db\bin\db.dll
+C:\Users\Lukas\Desktop\db\db\bin\db.pdb
+C:\Users\Lukas\Desktop\db\db\bin\roslyn\csc.exe
+C:\Users\Lukas\Desktop\db\db\bin\roslyn\csc.exe.config
+C:\Users\Lukas\Desktop\db\db\bin\roslyn\csc.rsp
+C:\Users\Lukas\Desktop\db\db\bin\roslyn\csi.exe
+C:\Users\Lukas\Desktop\db\db\bin\roslyn\csi.exe.config
+C:\Users\Lukas\Desktop\db\db\bin\roslyn\csi.rsp
+C:\Users\Lukas\Desktop\db\db\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Lukas\Desktop\db\db\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Lukas\Desktop\db\db\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Lukas\Desktop\db\db\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Lukas\Desktop\db\db\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Lukas\Desktop\db\db\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Lukas\Desktop\db\db\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Lukas\Desktop\db\db\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Lukas\Desktop\db\db\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Lukas\Desktop\db\db\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Lukas\Desktop\db\db\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Lukas\Desktop\db\db\bin\roslyn\System.AppContext.dll
+C:\Users\Lukas\Desktop\db\db\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Lukas\Desktop\db\db\bin\roslyn\System.Console.dll
+C:\Users\Lukas\Desktop\db\db\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Lukas\Desktop\db\db\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Lukas\Desktop\db\db\bin\roslyn\System.IO.Compression.dll
+C:\Users\Lukas\Desktop\db\db\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Lukas\Desktop\db\db\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Lukas\Desktop\db\db\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Lukas\Desktop\db\db\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Lukas\Desktop\db\db\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Lukas\Desktop\db\db\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Lukas\Desktop\db\db\bin\roslyn\System.Security.Claims.dll
+C:\Users\Lukas\Desktop\db\db\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Lukas\Desktop\db\db\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Lukas\Desktop\db\db\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Lukas\Desktop\db\db\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Lukas\Desktop\db\db\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Lukas\Desktop\db\db\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Lukas\Desktop\db\db\bin\roslyn\System.ValueTuple.dll
+C:\Users\Lukas\Desktop\db\db\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Lukas\Desktop\db\db\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Lukas\Desktop\db\db\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Lukas\Desktop\db\db\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Lukas\Desktop\db\db\bin\roslyn\vbc.exe
+C:\Users\Lukas\Desktop\db\db\bin\roslyn\vbc.exe.config
+C:\Users\Lukas\Desktop\db\db\bin\roslyn\vbc.rsp
+C:\Users\Lukas\Desktop\db\db\bin\roslyn\VBCSCompiler.exe
+C:\Users\Lukas\Desktop\db\db\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Lukas\Desktop\db\db\bin\Antlr3.Runtime.dll
+C:\Users\Lukas\Desktop\db\db\bin\BouncyCastle.Crypto.dll
+C:\Users\Lukas\Desktop\db\db\bin\Google.Protobuf.dll
+C:\Users\Lukas\Desktop\db\db\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Lukas\Desktop\db\db\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Lukas\Desktop\db\db\bin\MySql.Data.dll
+C:\Users\Lukas\Desktop\db\db\bin\Newtonsoft.Json.dll
+C:\Users\Lukas\Desktop\db\db\bin\System.Web.Helpers.dll
+C:\Users\Lukas\Desktop\db\db\bin\System.Web.Mvc.dll
+C:\Users\Lukas\Desktop\db\db\bin\System.Web.Optimization.dll
+C:\Users\Lukas\Desktop\db\db\bin\System.Web.Razor.dll
+C:\Users\Lukas\Desktop\db\db\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Lukas\Desktop\db\db\bin\System.Web.WebPages.dll
+C:\Users\Lukas\Desktop\db\db\bin\System.Web.WebPages.Razor.dll
+C:\Users\Lukas\Desktop\db\db\bin\WebGrease.dll
+C:\Users\Lukas\Desktop\db\db\bin\Google.Protobuf.xml
+C:\Users\Lukas\Desktop\db\db\bin\MySql.Data.xml
+C:\Users\Lukas\Desktop\db\db\bin\System.Web.Helpers.xml
+C:\Users\Lukas\Desktop\db\db\bin\System.Web.Mvc.xml
+C:\Users\Lukas\Desktop\db\db\bin\System.Web.Optimization.xml
+C:\Users\Lukas\Desktop\db\db\bin\System.Web.Razor.xml
+C:\Users\Lukas\Desktop\db\db\bin\System.Web.WebPages.xml
+C:\Users\Lukas\Desktop\db\db\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Lukas\Desktop\db\db\bin\System.Web.WebPages.Razor.xml
+C:\Users\Lukas\Desktop\db\db\bin\Newtonsoft.Json.xml
+C:\Users\Lukas\Desktop\db\db\bin\Antlr3.Runtime.pdb
+C:\Users\Lukas\Desktop\db\db\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Lukas\Desktop\db\db\obj\Debug\db.dll
+C:\Users\Lukas\Desktop\db\db\obj\Debug\db.pdb
+C:\Users\Lukas\Desktop\db\db\bin\db.dll.config
+C:\Users\Lukas\Desktop\db\db\obj\Debug\db.csprojAssemblyReference.cache
+C:\Users\Lukas\Desktop\db\db\obj\Debug\db.csproj.CoreCompileInputs.cache
+C:\Users\Lukas\Desktop\db\db\obj\Debug\db.csproj.CopyComplete
+C:\Users\Lukas\Desktop\Mokslai\Antras Kursas\Duomenu bazes\3Laboratorinis_Lukas_Rimkus\Lab3_Lukas_Rimkus\db\bin\db.dll.config
+C:\Users\Lukas\Desktop\Mokslai\Antras Kursas\Duomenu bazes\3Laboratorinis_Lukas_Rimkus\Lab3_Lukas_Rimkus\db\bin\db.dll
+C:\Users\Lukas\Desktop\Mokslai\Antras Kursas\Duomenu bazes\3Laboratorinis_Lukas_Rimkus\Lab3_Lukas_Rimkus\db\bin\db.pdb
+C:\Users\Lukas\Desktop\Mokslai\Antras Kursas\Duomenu bazes\3Laboratorinis_Lukas_Rimkus\Lab3_Lukas_Rimkus\db\bin\roslyn\csc.exe
+C:\Users\Lukas\Desktop\Mokslai\Antras Kursas\Duomenu bazes\3Laboratorinis_Lukas_Rimkus\Lab3_Lukas_Rimkus\db\bin\roslyn\csc.exe.config
+C:\Users\Lukas\Desktop\Mokslai\Antras Kursas\Duomenu bazes\3Laboratorinis_Lukas_Rimkus\Lab3_Lukas_Rimkus\db\bin\roslyn\csc.rsp
+C:\Users\Lukas\Desktop\Mokslai\Antras Kursas\Duomenu bazes\3Laboratorinis_Lukas_Rimkus\Lab3_Lukas_Rimkus\db\bin\roslyn\csi.exe
+C:\Users\Lukas\Desktop\Mokslai\Antras Kursas\Duomenu bazes\3Laboratorinis_Lukas_Rimkus\Lab3_Lukas_Rimkus\db\bin\roslyn\csi.exe.config
+C:\Users\Lukas\Desktop\Mokslai\Antras Kursas\Duomenu bazes\3Laboratorinis_Lukas_Rimkus\Lab3_Lukas_Rimkus\db\bin\roslyn\csi.rsp
+C:\Users\Lukas\Desktop\Mokslai\Antras Kursas\Duomenu bazes\3Laboratorinis_Lukas_Rimkus\Lab3_Lukas_Rimkus\db\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Lukas\Desktop\Mokslai\Antras Kursas\Duomenu bazes\3Laboratorinis_Lukas_Rimkus\Lab3_Lukas_Rimkus\db\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Lukas\Desktop\Mokslai\Antras Kursas\Duomenu bazes\3Laboratorinis_Lukas_Rimkus\Lab3_Lukas_Rimkus\db\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Lukas\Desktop\Mokslai\Antras Kursas\Duomenu bazes\3Laboratorinis_Lukas_Rimkus\Lab3_Lukas_Rimkus\db\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Lukas\Desktop\Mokslai\Antras Kursas\Duomenu bazes\3Laboratorinis_Lukas_Rimkus\Lab3_Lukas_Rimkus\db\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Lukas\Desktop\Mokslai\Antras Kursas\Duomenu bazes\3Laboratorinis_Lukas_Rimkus\Lab3_Lukas_Rimkus\db\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Lukas\Desktop\Mokslai\Antras Kursas\Duomenu bazes\3Laboratorinis_Lukas_Rimkus\Lab3_Lukas_Rimkus\db\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Lukas\Desktop\Mokslai\Antras Kursas\Duomenu bazes\3Laboratorinis_Lukas_Rimkus\Lab3_Lukas_Rimkus\db\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Lukas\Desktop\Mokslai\Antras Kursas\Duomenu bazes\3Laboratorinis_Lukas_Rimkus\Lab3_Lukas_Rimkus\db\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Lukas\Desktop\Mokslai\Antras Kursas\Duomenu bazes\3Laboratorinis_Lukas_Rimkus\Lab3_Lukas_Rimkus\db\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Lukas\Desktop\Mokslai\Antras Kursas\Duomenu bazes\3Laboratorinis_Lukas_Rimkus\Lab3_Lukas_Rimkus\db\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Lukas\Desktop\Mokslai\Antras Kursas\Duomenu bazes\3Laboratorinis_Lukas_Rimkus\Lab3_Lukas_Rimkus\db\bin\roslyn\System.AppContext.dll
+C:\Users\Lukas\Desktop\Mokslai\Antras Kursas\Duomenu bazes\3Laboratorinis_Lukas_Rimkus\Lab3_Lukas_Rimkus\db\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Lukas\Desktop\Mokslai\Antras Kursas\Duomenu bazes\3Laboratorinis_Lukas_Rimkus\Lab3_Lukas_Rimkus\db\bin\roslyn\System.Console.dll
+C:\Users\Lukas\Desktop\Mokslai\Antras Kursas\Duomenu bazes\3Laboratorinis_Lukas_Rimkus\Lab3_Lukas_Rimkus\db\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Lukas\Desktop\Mokslai\Antras Kursas\Duomenu bazes\3Laboratorinis_Lukas_Rimkus\Lab3_Lukas_Rimkus\db\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Lukas\Desktop\Mokslai\Antras Kursas\Duomenu bazes\3Laboratorinis_Lukas_Rimkus\Lab3_Lukas_Rimkus\db\bin\roslyn\System.IO.Compression.dll
+C:\Users\Lukas\Desktop\Mokslai\Antras Kursas\Duomenu bazes\3Laboratorinis_Lukas_Rimkus\Lab3_Lukas_Rimkus\db\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Lukas\Desktop\Mokslai\Antras Kursas\Duomenu bazes\3Laboratorinis_Lukas_Rimkus\Lab3_Lukas_Rimkus\db\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Lukas\Desktop\Mokslai\Antras Kursas\Duomenu bazes\3Laboratorinis_Lukas_Rimkus\Lab3_Lukas_Rimkus\db\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Lukas\Desktop\Mokslai\Antras Kursas\Duomenu bazes\3Laboratorinis_Lukas_Rimkus\Lab3_Lukas_Rimkus\db\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Lukas\Desktop\Mokslai\Antras Kursas\Duomenu bazes\3Laboratorinis_Lukas_Rimkus\Lab3_Lukas_Rimkus\db\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Lukas\Desktop\Mokslai\Antras Kursas\Duomenu bazes\3Laboratorinis_Lukas_Rimkus\Lab3_Lukas_Rimkus\db\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Lukas\Desktop\Mokslai\Antras Kursas\Duomenu bazes\3Laboratorinis_Lukas_Rimkus\Lab3_Lukas_Rimkus\db\bin\roslyn\System.Security.Claims.dll
+C:\Users\Lukas\Desktop\Mokslai\Antras Kursas\Duomenu bazes\3Laboratorinis_Lukas_Rimkus\Lab3_Lukas_Rimkus\db\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Lukas\Desktop\Mokslai\Antras Kursas\Duomenu bazes\3Laboratorinis_Lukas_Rimkus\Lab3_Lukas_Rimkus\db\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Lukas\Desktop\Mokslai\Antras Kursas\Duomenu bazes\3Laboratorinis_Lukas_Rimkus\Lab3_Lukas_Rimkus\db\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Lukas\Desktop\Mokslai\Antras Kursas\Duomenu bazes\3Laboratorinis_Lukas_Rimkus\Lab3_Lukas_Rimkus\db\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Lukas\Desktop\Mokslai\Antras Kursas\Duomenu bazes\3Laboratorinis_Lukas_Rimkus\Lab3_Lukas_Rimkus\db\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Lukas\Desktop\Mokslai\Antras Kursas\Duomenu bazes\3Laboratorinis_Lukas_Rimkus\Lab3_Lukas_Rimkus\db\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Lukas\Desktop\Mokslai\Antras Kursas\Duomenu bazes\3Laboratorinis_Lukas_Rimkus\Lab3_Lukas_Rimkus\db\bin\roslyn\System.ValueTuple.dll
+C:\Users\Lukas\Desktop\Mokslai\Antras Kursas\Duomenu bazes\3Laboratorinis_Lukas_Rimkus\Lab3_Lukas_Rimkus\db\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Lukas\Desktop\Mokslai\Antras Kursas\Duomenu bazes\3Laboratorinis_Lukas_Rimkus\Lab3_Lukas_Rimkus\db\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Lukas\Desktop\Mokslai\Antras Kursas\Duomenu bazes\3Laboratorinis_Lukas_Rimkus\Lab3_Lukas_Rimkus\db\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Lukas\Desktop\Mokslai\Antras Kursas\Duomenu bazes\3Laboratorinis_Lukas_Rimkus\Lab3_Lukas_Rimkus\db\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Lukas\Desktop\Mokslai\Antras Kursas\Duomenu bazes\3Laboratorinis_Lukas_Rimkus\Lab3_Lukas_Rimkus\db\bin\roslyn\vbc.exe
+C:\Users\Lukas\Desktop\Mokslai\Antras Kursas\Duomenu bazes\3Laboratorinis_Lukas_Rimkus\Lab3_Lukas_Rimkus\db\bin\roslyn\vbc.exe.config
+C:\Users\Lukas\Desktop\Mokslai\Antras Kursas\Duomenu bazes\3Laboratorinis_Lukas_Rimkus\Lab3_Lukas_Rimkus\db\bin\roslyn\vbc.rsp
+C:\Users\Lukas\Desktop\Mokslai\Antras Kursas\Duomenu bazes\3Laboratorinis_Lukas_Rimkus\Lab3_Lukas_Rimkus\db\bin\roslyn\VBCSCompiler.exe
+C:\Users\Lukas\Desktop\Mokslai\Antras Kursas\Duomenu bazes\3Laboratorinis_Lukas_Rimkus\Lab3_Lukas_Rimkus\db\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Lukas\Desktop\Mokslai\Antras Kursas\Duomenu bazes\3Laboratorinis_Lukas_Rimkus\Lab3_Lukas_Rimkus\db\bin\Antlr3.Runtime.dll
+C:\Users\Lukas\Desktop\Mokslai\Antras Kursas\Duomenu bazes\3Laboratorinis_Lukas_Rimkus\Lab3_Lukas_Rimkus\db\bin\BouncyCastle.Crypto.dll
+C:\Users\Lukas\Desktop\Mokslai\Antras Kursas\Duomenu bazes\3Laboratorinis_Lukas_Rimkus\Lab3_Lukas_Rimkus\db\bin\Google.Protobuf.dll
+C:\Users\Lukas\Desktop\Mokslai\Antras Kursas\Duomenu bazes\3Laboratorinis_Lukas_Rimkus\Lab3_Lukas_Rimkus\db\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Lukas\Desktop\Mokslai\Antras Kursas\Duomenu bazes\3Laboratorinis_Lukas_Rimkus\Lab3_Lukas_Rimkus\db\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Lukas\Desktop\Mokslai\Antras Kursas\Duomenu bazes\3Laboratorinis_Lukas_Rimkus\Lab3_Lukas_Rimkus\db\bin\MySql.Data.dll
+C:\Users\Lukas\Desktop\Mokslai\Antras Kursas\Duomenu bazes\3Laboratorinis_Lukas_Rimkus\Lab3_Lukas_Rimkus\db\bin\Newtonsoft.Json.dll
+C:\Users\Lukas\Desktop\Mokslai\Antras Kursas\Duomenu bazes\3Laboratorinis_Lukas_Rimkus\Lab3_Lukas_Rimkus\db\bin\System.Web.Helpers.dll
+C:\Users\Lukas\Desktop\Mokslai\Antras Kursas\Duomenu bazes\3Laboratorinis_Lukas_Rimkus\Lab3_Lukas_Rimkus\db\bin\System.Web.Mvc.dll
+C:\Users\Lukas\Desktop\Mokslai\Antras Kursas\Duomenu bazes\3Laboratorinis_Lukas_Rimkus\Lab3_Lukas_Rimkus\db\bin\System.Web.Optimization.dll
+C:\Users\Lukas\Desktop\Mokslai\Antras Kursas\Duomenu bazes\3Laboratorinis_Lukas_Rimkus\Lab3_Lukas_Rimkus\db\bin\System.Web.Razor.dll
+C:\Users\Lukas\Desktop\Mokslai\Antras Kursas\Duomenu bazes\3Laboratorinis_Lukas_Rimkus\Lab3_Lukas_Rimkus\db\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Lukas\Desktop\Mokslai\Antras Kursas\Duomenu bazes\3Laboratorinis_Lukas_Rimkus\Lab3_Lukas_Rimkus\db\bin\System.Web.WebPages.dll
+C:\Users\Lukas\Desktop\Mokslai\Antras Kursas\Duomenu bazes\3Laboratorinis_Lukas_Rimkus\Lab3_Lukas_Rimkus\db\bin\System.Web.WebPages.Razor.dll
+C:\Users\Lukas\Desktop\Mokslai\Antras Kursas\Duomenu bazes\3Laboratorinis_Lukas_Rimkus\Lab3_Lukas_Rimkus\db\bin\WebGrease.dll
+C:\Users\Lukas\Desktop\Mokslai\Antras Kursas\Duomenu bazes\3Laboratorinis_Lukas_Rimkus\Lab3_Lukas_Rimkus\db\bin\Google.Protobuf.xml
+C:\Users\Lukas\Desktop\Mokslai\Antras Kursas\Duomenu bazes\3Laboratorinis_Lukas_Rimkus\Lab3_Lukas_Rimkus\db\bin\MySql.Data.xml
+C:\Users\Lukas\Desktop\Mokslai\Antras Kursas\Duomenu bazes\3Laboratorinis_Lukas_Rimkus\Lab3_Lukas_Rimkus\db\bin\System.Web.Helpers.xml
+C:\Users\Lukas\Desktop\Mokslai\Antras Kursas\Duomenu bazes\3Laboratorinis_Lukas_Rimkus\Lab3_Lukas_Rimkus\db\bin\System.Web.Mvc.xml
+C:\Users\Lukas\Desktop\Mokslai\Antras Kursas\Duomenu bazes\3Laboratorinis_Lukas_Rimkus\Lab3_Lukas_Rimkus\db\bin\System.Web.Optimization.xml
+C:\Users\Lukas\Desktop\Mokslai\Antras Kursas\Duomenu bazes\3Laboratorinis_Lukas_Rimkus\Lab3_Lukas_Rimkus\db\bin\System.Web.Razor.xml
+C:\Users\Lukas\Desktop\Mokslai\Antras Kursas\Duomenu bazes\3Laboratorinis_Lukas_Rimkus\Lab3_Lukas_Rimkus\db\bin\System.Web.WebPages.xml
+C:\Users\Lukas\Desktop\Mokslai\Antras Kursas\Duomenu bazes\3Laboratorinis_Lukas_Rimkus\Lab3_Lukas_Rimkus\db\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Lukas\Desktop\Mokslai\Antras Kursas\Duomenu bazes\3Laboratorinis_Lukas_Rimkus\Lab3_Lukas_Rimkus\db\bin\System.Web.WebPages.Razor.xml
+C:\Users\Lukas\Desktop\Mokslai\Antras Kursas\Duomenu bazes\3Laboratorinis_Lukas_Rimkus\Lab3_Lukas_Rimkus\db\bin\Newtonsoft.Json.xml
+C:\Users\Lukas\Desktop\Mokslai\Antras Kursas\Duomenu bazes\3Laboratorinis_Lukas_Rimkus\Lab3_Lukas_Rimkus\db\bin\Antlr3.Runtime.pdb
+C:\Users\Lukas\Desktop\Mokslai\Antras Kursas\Duomenu bazes\3Laboratorinis_Lukas_Rimkus\Lab3_Lukas_Rimkus\db\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Lukas\Desktop\Mokslai\Antras Kursas\Duomenu bazes\3Laboratorinis_Lukas_Rimkus\Lab3_Lukas_Rimkus\db\obj\Debug\db.csprojAssemblyReference.cache
+C:\Users\Lukas\Desktop\Mokslai\Antras Kursas\Duomenu bazes\3Laboratorinis_Lukas_Rimkus\Lab3_Lukas_Rimkus\db\obj\Debug\db.csproj.CoreCompileInputs.cache
+C:\Users\Lukas\Desktop\Mokslai\Antras Kursas\Duomenu bazes\3Laboratorinis_Lukas_Rimkus\Lab3_Lukas_Rimkus\db\obj\Debug\db.csproj.CopyComplete
+C:\Users\Lukas\Desktop\Mokslai\Antras Kursas\Duomenu bazes\3Laboratorinis_Lukas_Rimkus\Lab3_Lukas_Rimkus\db\obj\Debug\db.dll
+C:\Users\Lukas\Desktop\Mokslai\Antras Kursas\Duomenu bazes\3Laboratorinis_Lukas_Rimkus\Lab3_Lukas_Rimkus\db\obj\Debug\db.pdb
